@@ -1,8 +1,8 @@
 # Moosic - Facial emotion detection based music recommendation system
-#### Submission for Microsoft Engage 2022
+
 ![logo](https://user-images.githubusercontent.com/81975567/170825957-55b94708-4893-4e13-a4aa-c5fa4ca9b070.png)
 
-This project is built as a part of [Engage Mentorship Program 2022](https://acehacker.com/microsoft/engage2022) by Microsoft.
+
 
 ### Table of Contents
 1. [About the Project](#about)
